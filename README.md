@@ -1,3 +1,7 @@
+## Hello
+
+This is a little fork of https://github.com/nonsense/docker-rails which you can use at ruby development day by day. You can see changes in files in according to my docker learning.
+
 ## PostgreSQL container
 
 PGSQL=$(sudo docker run -p 5432:5432 -name pgsql -d project/pgsql /usr/bin/start_pgsql.sh YOURPASSWORD)
